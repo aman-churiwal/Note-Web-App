@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "/note-web-app/static/js/main.76e5c4ef.chunk.js",
+    "main.js.map": "/note-web-app/static/js/main.76e5c4ef.chunk.js.map",
+    "runtime-main.js": "/note-web-app/static/js/runtime-main.f26de704.js",
+    "runtime-main.js.map": "/note-web-app/static/js/runtime-main.f26de704.js.map",
+    "static/js/2.df0d89d3.chunk.js": "/note-web-app/static/js/2.df0d89d3.chunk.js",
+    "static/js/2.df0d89d3.chunk.js.map": "/note-web-app/static/js/2.df0d89d3.chunk.js.map",
+    "index.html": "/note-web-app/index.html",
+    "precache-manifest.94a599c68d9fedee141286f1bd11a927.js": "/note-web-app/precache-manifest.94a599c68d9fedee141286f1bd11a927.js",
+    "service-worker.js": "/note-web-app/service-worker.js"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f26de704.js",
+    "static/js/2.df0d89d3.chunk.js",
+    "static/js/main.76e5c4ef.chunk.js"
+  ]
+}
